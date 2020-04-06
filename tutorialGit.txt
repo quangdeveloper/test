@@ -6,3 +6,5 @@ neu chua thi su dung:
 +, git init :de khoi tao git cho project
 +, sau khi khoi tao su dung git status de kiem tra xem dc chua
 +, neu dc roi su dung : git add "file.txt" de add 1 file muon add  or su dung  " git add . "(" git add *") de add tat ca cac file co trong project
++, git commit -a -m "commit to repository"  :viet tat cho 2 lenh: git add va git commmit
++, git log : kiem tralich su git hub
