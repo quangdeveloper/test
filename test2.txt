@@ -2,3 +2,4 @@ git test commit
 
 chang file for test command double
 
+thong tin them de test
