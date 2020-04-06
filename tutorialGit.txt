@@ -8,3 +8,9 @@ neu chua thi su dung:
 +, neu dc roi su dung : git add "file.txt" de add 1 file muon add  or su dung  " git add . "(" git add *") de add tat ca cac file co trong project
 +, git commit -a -m "commit to repository"  :viet tat cho 2 lenh: git add va git commmit
 +, git log : kiem tralich su git hub
++, tao 1 repository tren git hub online, copy link cua repository nay lai
++, su dung "git remote add #nameProject  +link : lien ket voi ropository
+
++, su dung "git push #nameProject"
+ neu co yeu cau phai tao upstream thi tao nhu sau
+git push --set-upstream #nameProject master
