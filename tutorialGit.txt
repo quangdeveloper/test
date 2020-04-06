@@ -1,0 +1,8 @@
+git  config --global user.name = "userName"? de add userName su dung tren git hub online
+git config --global user.name = "email"?  de add email su dung tren git hub online
+
++,  git status : de kiem tra trang thai project xem da add git chua
+neu chua thi su dung:
++, git init :de khoi tao git cho project
++, sau khi khoi tao su dung git status de kiem tra xem dc chua
++, neu dc roi su dung : git add "file.txt" de add 1 file muon add  or su dung  " git add . "(" git add *") de add tat ca cac file co trong project
